@@ -1,7 +1,3 @@
-autotune, pitch, abr, vbr, watermark, topcaption, bottomcaption, toptext, bottomtext, normalcaption, topcap, bottomcap, lag, rlag, acid, deepfry, sharpen, selection, wave, waveamount, wavestrength, musicdelay, musicskip, multiple commands, datamosh, ytp, shuffle, stutter, ricecake, glitch and timecode, zoom, wscale, hscale, hcrop, vcrop, shake, fisheye, delfirst, dellast, reverb, reverbdelay, crush, earrape, wobble, sfx doesn't exist yet, since the development for this tag has started in August 6th, 2025
-
-# Made painstakingly while typing on a phone
-
 {if:{arg:0}|=|bandicam|then:{set:command|{iscript: load {iv} m
 load https://raw.githubusercontent.com/Idontknowwhatimdoing0/veb-nsb/refs/heads/main/bandicam.png watermark
 overlay m watermark
